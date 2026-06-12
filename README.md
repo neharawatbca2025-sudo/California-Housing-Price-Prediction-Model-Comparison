@@ -50,7 +50,6 @@ Project Structure
 │   └── actual_vs_predicted.png
 
 Author
-
 Neha Rawat
 AI & Machine Learning Intern
 MainCrafts Technology
